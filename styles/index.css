@@ -2,6 +2,10 @@ h1{
     text-align: center;
     color: purple;
 }
-#first_blog h2{
+#first_blog h2, #second_blog h2{
     font-style: italic;
+}
+div p{
+    border: 2px solid black;
+    display: block;
 }
